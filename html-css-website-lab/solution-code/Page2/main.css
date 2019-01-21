@@ -1,0 +1,49 @@
+body {
+    margin: 250px;
+    background-color: lightgray;
+}
+
+nav {
+    text-align: center;
+    font-size: 25px;
+    font-family: sans-serif;
+    clear:both;
+}
+
+#inLine {
+    display: inline;
+}
+
+h1 {
+    text-align:center;
+    font-family: sans-serif;
+}
+
+
+
+
+h2 {
+    font-family: sans-serif;
+    
+}
+
+
+
+p {
+    
+    font-size: 20px;
+}
+
+ul {
+    
+}
+
+h3, h4 {
+    font-family: sans-serif
+}
+
+img {
+    clear:both;
+    float: right;
+}
+
